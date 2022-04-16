@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "32411523024",
+    "project_id": "kuick-c42bf",
+    "storage_bucket": "kuick-c42bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32411523024:android:5e400118e5d0f18e9c0bd5",
+        "android_client_info": {
+          "package_name": "com.example.kuick_clone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32411523024-0pkdmkp6v8g9i92vcki6151ig07lh2tm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kuick_clone",
+            "certificate_hash": "9badd84543ea9f028f0a2a5b493a300dcc86d4f3"
+          }
+        },
+        {
+          "client_id": "32411523024-9m83c95e3500iv6dkauvoq4f65fukmov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2k7T-99atLCePS7zSR-4P2TNK5fyz6_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "32411523024-9m83c95e3500iv6dkauvoq4f65fukmov.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
